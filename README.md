@@ -52,3 +52,10 @@ I'm passionate about data-driven solutions, machine learning, and building impac
 
 
 ---
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmayee-patil-716227228/)
+
+---
+
+⭐ *Feel free to check out my repositories, contribute, or reach out for collaboration!*
